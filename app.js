@@ -9,7 +9,7 @@ console.log('ーーーーーーーーーーーーーーーーーーーーーー�
 // if (result === false) console.log(`PASS`);
 // else console.error(`FAIL`);
 console.log('true（でした）')
-console.log('なぜなら比較する前に両方の値が同じ型になるから')
+console.log('なぜなら比較する前に両方の値が同じ型に変換されるから')
 console.log('ーーーーーーーーーーーーーーーーーーーーーーーーーーーー')
 
 // 1 === '1'の結果は何ですか？
